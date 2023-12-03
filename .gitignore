@@ -1,4 +1,3 @@
-.DS_Store
 *.rbc
 **.orig
 rerun.txt
@@ -127,3 +126,4 @@ front-upd
 
 #temp local folder
 java-backend/java-backend-internal/temp/*
+/nodejs/node_modules/
